@@ -1,6 +1,6 @@
 # PublicAdis: Reaching New Heights in Digital Advertising
 
-![PublicAdis Logo](../img/banner.png))
+![PublicAdis Logo](https://raw.githubusercontent.com/PublicAdis/PublicAdis.GitHub.io/react-version-2.0/public/img/logo_200x200.png)
 
 **PublicAdis** is a cutting-edge digital advertising platform that empowers businesses with the ability to connect with a vast and targeted audience. By offering an effective and affordable way to promote products and services, PublicAdis enables businesses to soar to new heights in their marketing endeavors. Let's delve into the remarkable features that make PublicAdis a game-changer in the world of advertising.
 
